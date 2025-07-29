@@ -14,7 +14,7 @@ A powerful **real-time collaborative code editor** built with **React**, **Monac
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 
 https://github.com/user-attachments/assets/9f23a0f3-4e12-4d4a-af99-397a036c451b
 
