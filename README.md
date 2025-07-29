@@ -4,7 +4,7 @@ A powerful **real-time collaborative code editor** built with **React**, **Monac
 
 ---
 ## Live Link
-https://github.com/AryanJaiswal763/SyncScriptIO.git
+https://syncscriptio-client.onrender.com/
 
 ## ✨ Features
 
